@@ -1,0 +1,18 @@
+.article{
+	background: #f0f1f2;
+	box-shadow:3px 3px 9px #999;
+}
+article{
+
+	margin:5px 0;
+	border-radius:5px;
+	border:1px solid #f9f9f9;
+	background:rgba(120,125,150,0.1);
+}
+article p{
+	text-indent:15px;
+}
+article h5{
+	font-weight:bold;
+}
+

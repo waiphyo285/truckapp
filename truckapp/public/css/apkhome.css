@@ -1,0 +1,14 @@
+#app{
+	min-width:900px;
+}
+/* @media screen and (max-width: *** px ){
+	*{
+
+	}
+} */
+
+.bg-lightgray
+{
+    background-color:#bbb;
+    height:45px;
+}

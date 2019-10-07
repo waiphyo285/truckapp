@@ -1,0 +1,24 @@
+input{
+	border:none;
+	margin-top:10px;
+}
+
+input[type="text"],input[type="number"],input[type="tel"]{
+	border-radius: 7px;
+	line-height:10px;
+	height:44px;
+	
+}
+
+.sel-tk,.sel-lc{
+	height:44px;
+	margin-top:10px;
+ 	border-radius:7px;
+	opacity: 0.75;
+	color:#555;
+	border:none;
+}
+.info-partner,.viewcomment{
+	height:380px;
+	overflow-y:scroll;
+}
