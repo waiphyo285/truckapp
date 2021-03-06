@@ -98,11 +98,11 @@
                 </div>
 
                <div class="links">
-                    <a href='{{url("\home")}}'>Home</a>
-                    <a href='{{url("\staff")}}'>Staffs</a>
-                    <a href='{{url("\partnership")}}'>Partnership</a>
-                    <a href='{{url("\achieve")}}'>Achievement</a>
-                    <a href='{{url("\location")}}'>Location</a>
+                    <a href='{{url("home")}}'>Home</a>
+                    <a href='{{url("staff")}}'>Staffs</a>
+                    <a href='{{url("partnership")}}'>Partnership</a>
+                    <a href='{{url("achieve")}}'>Achievement</a>
+                    <a href='{{url("location")}}'>Location</a>
                 </div> 
             </div>
         </div>
